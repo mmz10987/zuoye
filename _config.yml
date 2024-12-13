@@ -1,10 +1,10 @@
 # Site settings
-title: 骗人服官网
-SEOTitle: 骗人服官网
+title: 一只小广告的网站
+SEOTitle: 一只小广告的网站
 header-img: img/home-bg.jpg
 email: 2609322291@qq.com
-description: "这里是骗人服官网..........你被骗了，这其实是骗人服官网"
-keyword: "骗人服"
+description: "一只小广告的网站"
+keyword: "一只小广告的网站"
 url: "pianrenfu.us.kg" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 

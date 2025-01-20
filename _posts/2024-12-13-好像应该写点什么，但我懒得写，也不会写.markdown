@@ -9,5 +9,5 @@ tags:
     - 语文作业
 ---
 <div>
-    <br>如图，作业为所求
-    ![img](/img/yuwen/1201.jpg)
+##如图，作业为所求
+![img](/img/yuwen/1201.jpg)

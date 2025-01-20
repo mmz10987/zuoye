@@ -10,4 +10,4 @@ tags:
 ---
 <div>
     <br>如图，作业为所求
-    ![img](/img/语文作业1.jpg)
+    ![img](/img/yuwen/1201.jpg)

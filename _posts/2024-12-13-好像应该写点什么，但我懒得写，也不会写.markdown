@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "妹妹是坏蛋"
-subtitle:   "妹妹是笨蛋"
+title:      "2025/1/20语文作业"
+subtitle:   "2025/1/20语文作业"
 date:       2024-12-13 18:00:00
-author:     "哥哥"
+author:     "一只小广告"
 hidden: false
 tags:
     - 语文作业

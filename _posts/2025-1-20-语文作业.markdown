@@ -9,6 +9,6 @@ tags:
     - 语文作业
 ---
 如图，作业为所求
-![img](img/yuwen/1201)
-![img](img/yuwen/1202)
-![img](img/yuwen/1203)
+![img](/img/yuwen/1201)
+![img](/img/yuwen/1202)
+![img](/img/yuwen/1203)
